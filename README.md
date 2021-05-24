@@ -1,2 +1,4 @@
-# open-source-projects
-Scaler Academy Open Source Projects Hub
+# OpenSource Projects @ Scaler 
+Scaler Academy Open Source Projects Hub 
+
+
