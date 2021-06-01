@@ -36,4 +36,20 @@ Once we pick up a new project, one thread per project will be made in this forum
 #### [❓ Q&A](https://github.com/scaleracademy/open-source-projects/discussions/categories/q-a)
 Any questions regarding contributions, participation, or anything about this initiative - feel free to ask them here.
 
+### Getting Started 
+There are multiple ways you can start
+
+#### 👉 Bring in a new Idea 
+1. Create a new post on the **[💡 Ideas](https://github.com/scaleracademy/open-source-projects/discussions/categories/ideas)** forum
+2. Check a [sample post](https://github.com/scaleracademy/open-source-projects/discussions/2) about how to submit a detailed project idea 
+3. Share that idea with your friends 🗣 
+4. Once there's a lot of interest, and the maintainers agree on inducting it, we will take that idea up as a project here
+
+
+#### 👉 Contribute to an existing project
+1. Browse existing projects from **[📦 Projects](https://github.com/scaleracademy/open-source-projects/discussions/categories/projects)** forum
+2. The post should have details on repository, langauge used, and basic summary of what the project does 
+3. Visit the repository and check out some of the open issues or features 
+4. Checkout the repository ⬇️, start coding 💻 and get onboard 🚀
+
 
