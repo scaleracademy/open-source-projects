@@ -1,6 +1,3 @@
-# OpenSource Projects @ Scaler 
-Scaler Academy Open Source Projects Hub 
-
 ## About 
 
 The **Scaler Open Source Projects Hub** is a place for the Scaler community, alumni of Scaler Academy and members of the InterviewBit tech team to come together and collaborate and big and small open source projects. 
